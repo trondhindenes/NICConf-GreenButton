@@ -1,4 +1,4 @@
-# MiniBlog
+# PaintYourPet
 
 You KNOW you want to paint your pet!
 
